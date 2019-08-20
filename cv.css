@@ -1,0 +1,24 @@
+
+
+#background{
+height: 100vh;
+width: 100vw;
+background-color: black;
+
+}
+#right{
+  height: 80vh;
+  width: 30vw;
+  background-color: lightblue;
+  margin: 5vw;
+  margin-right: 0vw;
+  float: left;
+}
+#left{
+  height: 80vh;
+  width: 60vw;
+  background-color: white;
+  float: right;
+  margin: 5vw;
+  margin-left: 0vw;
+}
