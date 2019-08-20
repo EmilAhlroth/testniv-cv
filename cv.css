@@ -1,5 +1,9 @@
 
 
+*{
+  margin: 0;
+  padding: 0;
+}
 #background{
 height: 100vh;
 width: 100vw;
@@ -25,4 +29,20 @@ background-color: black;
 
 #list{
   list-style-type: disc;
+}
+
+.date{
+  width: 92%;
+  margin-top: 0vw;
+  text-align: right;
+  margin-left: 3vw;
+}
+
+.rub{
+  font-weight: bold;
+  margin-left: 3vw;
+}
+
+.me{
+  margin-left: 3vw;
 }
