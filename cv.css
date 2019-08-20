@@ -22,3 +22,7 @@ background-color: black;
   margin: 5vw;
   margin-left: 0vw;
 }
+
+#list{
+  list-style-type: disc;
+}
